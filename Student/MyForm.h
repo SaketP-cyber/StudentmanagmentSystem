@@ -26,7 +26,7 @@ namespace Student {
 		String^ sqlQuery;
 		String^ server="localhost";
 		String^ username="root";
-		String^ passowrd="Saket@123456789";
+		String^ passowrd="Saket@1****";
 	private: System::Windows::Forms::DataGridView^ dataGridView1;
 		   String^ database = "cppstudentdb";
 	public:
